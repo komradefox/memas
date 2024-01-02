@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>komrade.xyz</title>
+    <link>https://komrade.xyz/</link>
+    <description>Recent content on komrade.xyz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 18:33:01 -0500</lastBuildDate>
+    <atom:link href="https://komrade.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hi</title>
+      <link>https://komrade.xyz/posts/hi/</link>
+      <pubDate>Mon, 01 Jan 2024 18:33:01 -0500</pubDate>
+      <guid>https://komrade.xyz/posts/hi/</guid>
+      <description>everythin is hard</description>
+    </item>
+  </channel>
+</rss>

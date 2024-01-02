@@ -1,0 +1,21 @@
+baseURL: https://komrade.xyz/
+languageCode: en-us
+title: komrade.xyz
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+ disableXML: true
+ minifyOutput: true
+
+params:
+ env: production
+ title: komrade.xyz
+ description: "always. struggling."
+ keywords: [space, blog, waste]
+ author: komrade
+
