@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://komrade.xyz/sitemap.xml
+Sitemap: https://memutualaidsociety.org/sitemap.xml

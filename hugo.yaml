@@ -1,6 +1,6 @@
-baseURL: https://komrade.xyz/
+baseURL: https://memutualaidsociety.org/
 languageCode: en-us
-title: komrade.xyz
+title: ME Mutual Aid Society
 theme: "PaperMod"
 
 enableRobotsTXT: true
@@ -14,8 +14,8 @@ minify:
 
 params:
  env: production
- title: komrade.xyz
- description: "always. struggling."
- keywords: [space, blog, waste]
- author: komrade
+ title: ME Mutual Aid Society
+ description: "MEMAS"
+ keywords: [ME, MECFS, mutual aid]
+ author: whitney
 

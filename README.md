@@ -1,2 +1,2 @@
-# take2
-this is too hard
+# ME Mutual Aid Society
+Myalgic Encephalomyelitis Mutual Aid Society
